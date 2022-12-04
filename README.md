@@ -1,5 +1,4 @@
-### Hi there 👋
-[![Adithya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adithyadinesh96&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **adithyadinesh96/adithyadinesh96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
