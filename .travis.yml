@@ -1,6 +1,6 @@
   language: python
   jobs:
-    if: branch = master
+    if: branch = main AND app=msA
     env: app=test
     script:
       - pytest
