@@ -1,4 +1,6 @@
   language: python
   jobs:
+    if: branch = main
+      env: app=test
     script:
       - pytest
